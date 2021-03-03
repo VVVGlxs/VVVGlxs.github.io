@@ -4,3 +4,18 @@
 
 layout: home
 ---
+
+
+The VVV Survey
+--------------
+
+
+
+Machine Learning to identify galaxies
+-------------------------------------
+
+[(slides + video + notebooks)]({% link _pages/talks/2020-11-02-binarias.md %})
+
+
+
+
